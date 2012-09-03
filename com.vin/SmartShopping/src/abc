@@ -1,0 +1,40 @@
+private static String productNameArray[]={"HTC Explorer",
+		"Samsung Galaxy Note 800",
+		"Samsung Galaxy Y S5360",
+		"SanDisk Memory Card MicroSDHC 8GB",
+		"Sony Cybershot W610 Point & Shoot",
+		"Nikon Coolpix L26 Point & Shoot",
+		"Nikon D90 SLR (Black) with AF-S 18-105mm VR Kit Lens",
+		"Fujifilm FinePix C25 Point & Shoot (Red)", 
+		"Toshiba Satellite C850-P5010 Laptop",
+		"Seagate Expansion Portable 1 TB USB 3.0 Hard Drive",
+		"HP Pavilion G6-2005AX Laptop AMD A8 Quad Core/4GB/500GB/Win 7 HB/1GB Graphics",
+		"Bajaj GX 7 3 Jars 500 Watts Juicer Mixer Grinder"
+
+};
+	private static String productUrl[]={"http://www.flipkart.com/htc-explorer-mobile-phone/p/itmd2krppkkeds2h?pid=MOBD2KRKDNMXGHMJ",
+		"http://www.flipkart.com/samsung-galaxy-note-800/p/itmdcpurtm4eyfkm?pid=TABDCPT2QHCH9DGG",
+			"http://www.flipkart.com/samsung-galaxy-y-s5360-mobile-phone/p/itmd2pz2rpcg5smz?pid=MOBD7NNAVDZEZYJH",
+			"http://www.flipkart.com/sandisk-memory-card-microsdhc-8gb/p/itmczcthv3hpnhhe?pid=ACCCRRQZ2BHPWWEH",
+			"http://www.flipkart.com/sony-cybershot-w610-point-shoot/p/itmd6h3df7zwtnwy?pid=CAMD6H3C45TXABFM",
+			"http://www.flipkart.com/nikon-coolpix-l26-point-shoot/p/itmd7fnxcsnfzfxz?pid=CAMD72H4TG27KW54",
+			"http://www.flipkart.com/nikon-d90-slr/p/itmczc2geraekd7z?pid=CAMCVYDJPFSCN5PA",
+			"http://www.flipkart.com/fujifilm-finepix-c25-point-shoot/p/itmcywhhjzkhsche?pid=CAMDAGS2YDHCZDJW",
+			"http://www.flipkart.com/toshiba-satellite-c850-p5010-laptop/p/itmd9wtgttpcuscf?pid=COMD9WT9XZCGSBHM&icmpid=banner_ls_computer",
+			"http://www.flipkart.com/seagate-expansion-portable-1-tb-usb-3-0-hard-drive/p/itmd7apdzeup7er2?pid=ACCD7APDVECMHNZX",
+			"http://www.flipkart.com/hp-pavilion-g6-2005ax-laptop-amd-a8-quad-core-4gb-500gb-win-7-hb-1gb-graphics/p/itmdaa2xq7jnnvch?pid=COMDAA2USZGGXKZK&icmpid=banner_ls_computer",
+			"http://www.flipkart.com/bajaj-gx-7-3-jars-500-watts-juicer-mixer-grinder/p/itmdyczgtbxzezku?pid=MIXDYCZD5NZRMFAM"
+};
+	private static double productPriceArray[]={8599,
+		38500,
+		6790,
+		260,
+		6300,
+		5772,
+		57182,
+		3399,
+		20980,
+		5681,
+		33990,
+		2155
+};
